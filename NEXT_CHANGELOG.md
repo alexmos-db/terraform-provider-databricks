@@ -15,6 +15,8 @@
 
 ### Documentation
 
+* Add missing permission `topics.detachSubscription` for Databricks file eevents
+
 ### Exporter
 
 * Added `-targetCloud` and `-nodeTypeMappingFile` flags for cross-cloud attribute and node-type conversion ([#5236](https://github.com/databricks/terraform-provider-databricks/issues/5236)).
